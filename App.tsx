@@ -43,7 +43,7 @@ import Settings from './components/Settings';
 import SampleDataSelector from './components/SampleDataSelector';
 import LoadResponsesModal from './components/LoadResponsesModal';
 import BrandForm from './components/BrandForm.tsx';
-import IndustrialGoodsForm from './components/IndustrialGoodsForm.tsx';
+import IndustrialGoodsForm from './components/QuestionRenderer';
 import ApparelForm from './components/ApparelForm.tsx';
 import PositioningStatement from './components/PositioningStatement';
 import AdCreative from './components/AdCreative';
