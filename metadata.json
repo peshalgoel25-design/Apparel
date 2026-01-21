@@ -1,0 +1,9 @@
+{
+  "name": "SPARQ v15.3",
+  "description": "Industrial Goods Only Improvement - with psychographics.\nGemini 3 testing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
